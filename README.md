@@ -2,13 +2,13 @@ xbros
 ========
 https://xbros.tspace.fr
 
+https://github.com/xbros
+
+https://todxbros.slack.fr
+
 - [adrien](adrien/)
 - [simon](simon/)
 - [system](system.html)
 - [ressources](ressources.html)
 - [todo](todo.html)
-
-
-Coding rules
-------------
-- Encodage UTF-8
+- [coding rules](codingrules.html)
