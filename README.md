@@ -7,3 +7,8 @@ https://xbros.tspace.fr
 - [system](system.html)
 - [ressources](ressources.html)
 - [todo](todo.html)
+
+
+Coding rules
+------------
+- Encodage UTF-8
