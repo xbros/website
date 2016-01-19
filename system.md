@@ -8,14 +8,6 @@ sudo chmod -R g+w . public_html domains etc tmp
 
 Clé ssh dans `~/.ssh/id_rsa` en permission 600.
 
-Admin
-======
-https://sd-63062.tspace.fr/phpmyadmin/
-
-https://sd-63062.tspace.fr/munin/
-
-https://sd-63062.tspace.fr:10000
-
 Packages
 ========
 
