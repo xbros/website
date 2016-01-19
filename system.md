@@ -6,13 +6,15 @@ Permissions au groupe xbros :
 
 sudo chmod -R g+w . public_html domains etc tmp
 
-Clé ssh dans `~/.ssh/id_rsa` en mode 600
+Clé ssh dans `~/.ssh/id_rsa` en permission 600.
 
 Admin
 ======
 https://sd-63062.tspace.fr/phpmyadmin/
 
 https://sd-63062.tspace.fr/munin/
+
+https://sd-63062.tspace.fr:10000
 
 Packages
 ========
@@ -59,3 +61,10 @@ sudo apt-get install cmake
 
 ### boost
 sudo apt-get install libboost-all-dev
+
+### ruby
+```
+sudo apt-get install sqlite3
+sudo gem install rails bundler jekyll ruhoh
+```
+

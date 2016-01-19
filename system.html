@@ -66,12 +66,13 @@ img {
 <p>Ubuntu server 14.04 trusty</p>
 <p>Permissions au groupe xbros :</p>
 <p>sudo chmod -R g+w . public_html domains etc tmp</p>
-<p>Clé ssh dans <code>~/.ssh/id_rsa</code> en mode 600</p>
+<p>Clé ssh dans <code>~/.ssh/id_rsa</code> en permission 600.</p>
 </div>
 <div id="admin" class="section level1">
 <h1>Admin</h1>
 <p><a href="https://sd-63062.tspace.fr/phpmyadmin/" class="uri">https://sd-63062.tspace.fr/phpmyadmin/</a></p>
 <p><a href="https://sd-63062.tspace.fr/munin/" class="uri">https://sd-63062.tspace.fr/munin/</a></p>
+<p><a href="https://sd-63062.tspace.fr:10000" class="uri">https://sd-63062.tspace.fr:10000</a></p>
 </div>
 <div id="packages" class="section level1">
 <h1>Packages</h1>
@@ -117,6 +118,11 @@ sudo gdebi shiny-server-1.4.1.759-amd64.deb</code></pre>
 <div id="boost" class="section level3">
 <h3>boost</h3>
 <p>sudo apt-get install libboost-all-dev</p>
+</div>
+<div id="ruby" class="section level3">
+<h3>ruby</h3>
+<pre><code>sudo apt-get install sqlite3
+sudo gem install rails bundler jekyll ruhoh</code></pre>
 </div>
 </div>
 
