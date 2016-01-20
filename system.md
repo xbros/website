@@ -13,6 +13,9 @@ Clé ssh dans `~/.ssh/id_rsa` en permission 600.
 Packages
 ========
 
+### keychain
+sudo apt-get install keychain
+
 ### git
 sudo apt-get install git
 
