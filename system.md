@@ -1,5 +1,7 @@
-System
-=======
+---
+title: System
+---
+
 Ubuntu server 14.04 trusty
 
 Permissions au groupe xbros :

@@ -1,5 +1,6 @@
-adrien
-========
-http://adrien.tspace.fr
+---
+title: adrien
+---
 
-https://github.com/adrtod
+[[website](http://adrien.tspace.fr)] 
+[[github](https://github.com/adrtod)] 
