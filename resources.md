@@ -9,6 +9,10 @@ Bootstrap:
 
 - http://getbootstrap.com/
 - https://bootswatch.com/
+- http://work.smarchal.com/twbscolor
+- https://fortawesome.github.io/Font-Awesome/
+- http://glyphsearch.com/
+
 
 HTML & CSS:
 
