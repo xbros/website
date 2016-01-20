@@ -1,6 +1,8 @@
+/* The boostwatch style is defined in _output.yaml with the theme option */
 
-
-/* custom navbar color theme: http://work.smarchal.com/twbscolor/css/222222090909ffff00ffff000 */
+/* custom navbar color theme generated from
+   http://work.smarchal.com/twbscolor/css/222222090909ffff00ffff000 */
+   
 .navbar-default {
   background-color: #222222;
   border-color: #090909;
