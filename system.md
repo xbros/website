@@ -24,6 +24,16 @@ apt-get install nodejs npm
 
 ### ruby
 ```{bash}
+apt-get -y update
+apt-get -y install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev
+cd /tmp
+wget http://ftp.ruby-lang.org/pub/ruby/2.3/ruby-2.3.0.tar.gz
+tar -xvzf ruby-2.3.0.tar.gz
+cd ruby-2.3.0/
+./configure --prefix=/usr/local
+make
+make install
+
 apt-get install ruby-dev
 apt-get install sqlite3
 gem install rails bundler jekyll ruhoh
