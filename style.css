@@ -64,6 +64,34 @@
 }
 
 
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.container .text-muted {
+  padding: 0 15px;
+  margin: 10px 0;
+  text-align: left;
+}
+
+
+
 /* padding for bootstrap navbar */
 body {
   padding-top: 50px;
