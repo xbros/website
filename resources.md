@@ -5,6 +5,11 @@ title: Resources
 Web 
 =====
 
+Markdown:
+
+- http://rmarkdown.rstudio.com
+- http://rmarkdown.rstudio.com/authoring_pandoc_markdown.html
+
 Bootstrap:
 
 - http://getbootstrap.com/
@@ -12,7 +17,6 @@ Bootstrap:
 - http://work.smarchal.com/twbscolor
 - https://fortawesome.github.io/Font-Awesome/
 - http://glyphsearch.com/
-
 
 HTML & CSS:
 
