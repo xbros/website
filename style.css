@@ -65,6 +65,11 @@
 
 /* end ------------------------------------- */
 
+/* logo navbar */
+#xbros-logo {
+  height: 50px;
+}
+
 /* enlarge icons */
 .navbar-default {
   font-size: 150%;
@@ -110,3 +115,4 @@ body {
   margin: 10px 0;
   text-align: left;
 }
+
