@@ -19,7 +19,7 @@ chmod -R g+w . public_html domains etc tmp
 SHELL=/bin/bash
 MAILTO=""
 PATH=/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/bin
-* * * * * eval `keychain --noask --eval id_rsa` && cd ../xbros/public_html/ && git pull && make
+* * * * * eval `keychain --noask --eval id_rsa` && cd /home/xbros/public_html/ && git pull && make
 ```
 
 Packages
