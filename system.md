@@ -2,13 +2,25 @@
 title: System
 ---
 
-Ubuntu server 14.04 trusty
+- Ubuntu server 14.04 trusty
 
-Permissions au groupe xbros :
+- Permissions au groupe xbros
 
+```{bash}
+cd /home/xbros
 chmod -R g+w . public_html domains etc tmp
+```
 
-Clé ssh dans `~/.ssh/id_rsa` en permission 600.
+- Clé ssh dans `~/.ssh/id_rsa` en permission 600.
+
+- Crontab
+
+```
+SHELL=/bin/bash
+MAILTO=""
+PATH=/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/bin
+* * * * * eval `keychain --noask --eval id_rsa` && cd ../xbros/public_html/ && git pull && make
+```
 
 Packages
 ========
