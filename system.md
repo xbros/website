@@ -34,7 +34,6 @@ cd ruby-2.3.0/
 make
 make install
 
-apt-get install ruby-dev
 apt-get install sqlite3
 gem install rails bundler jekyll ruhoh
 ```
