@@ -70,7 +70,10 @@
   height: 50px;
 }
 
-/* enlarge icons */
+/* font-sizes */
+.fs-120 { font-size: 120%; }
+.fs-150 { font-size: 150%; }
+
 .navbar-default {
   font-size: 150%;
 }
