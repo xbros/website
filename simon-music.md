@@ -4,7 +4,7 @@ title: Simon - Musique
      
 <a class="btn btn-default" href="https://soundcloud.com/simon-todeschini">
     <i class="fa fa-soundcloud fa-3x pull-left"></i>
-    <font size="5">SoundCloud</font>
+    <font size="6">SoundCloud</font>
 </a>
      
      
@@ -18,7 +18,7 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/acoustic-chillness.wav">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    WAV DownLoad
+    WAV Download
 </a>
      
      
