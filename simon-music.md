@@ -94,7 +94,7 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/2015-12-09_temple-s-demon.mp3" download="temple-s-demon.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    mp3 Download
+    MP3 Download
 </a>
      
      
@@ -112,7 +112,7 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/2015-12-07_stare.mp3" download="stare.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    mp3 Download
+    MP3 Download
 </a>
      
      
@@ -130,7 +130,7 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/2015-12-02_sweeps.mp3" download="sweeps.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    mp3 Download
+    MP3 Download
 </a>
      
      
@@ -148,7 +148,7 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/2015-11-30_deep-shit.mp3" download="deep-shit.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    mp3 Download
+    MP3 Download
 </a>
      
      
@@ -166,5 +166,5 @@ title: Simon - Musique
 </a>
 <a class="btn btn-default btn-sm" href="simon-music/2015-10-30_1st-track.mp3" download="1st-track.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
-    mp3 Download
+    MP3 Download
 </a>
