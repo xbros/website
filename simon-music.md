@@ -16,6 +16,10 @@ title: Simon - Musique
     <i class="fa fa-soundcloud"></i>
     ACOUSTIC CHILLNESS
 </a>
+<a class="btn btn-default btn-sm" href="simon-music/acoustic-chillness.wav">
+    <i class="fa fa-file-audio-o"></i>
+    WAV DownLoad
+</a>
      
      
 **FALLING LEAVES**
