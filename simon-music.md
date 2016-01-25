@@ -20,6 +20,10 @@ title: Simon - Musique
     <i class="fa fa-file-audio-o fa-2x"></i>
     WAV Download
 </a>
+<a class="btn btn-default btn-sm" href="simon-music/acoustic-chillness.mp3" download="acoustic-chillness.mp3">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    MP3 Download
+</a>
      
      
 **FALLING LEAVES**
@@ -30,7 +34,14 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-2x"></i>
     FALLING LEAVES
 </a>
-     
+<a class="btn btn-default btn-sm" href="simon-music/falling-leaves.wav" download="falling-leaves.wav">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    WAV Download
+</a>
+<a class="btn btn-default btn-sm" href="simon-music/falling-leaves.mp3" download="falling-leaves.mp3">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    MP3 Download
+</a>    
      
 **SPARKLES**
      
