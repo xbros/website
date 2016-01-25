@@ -16,7 +16,7 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-2x"></i>
     ACOUSTIC CHILLNESS
 </a>
-<a class="btn btn-default btn-sm" href="simon-music/acoustic-chillness.wav" download="acoustic-chillness.wav">
+<a class="btn btn-default btn-sm" href="simon-music/" download="acoustic-chillness.wav">
     <i class="fa fa-file-audio-o fa-2x"></i>
     WAV Download
 </a>
