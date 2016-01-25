@@ -4,7 +4,7 @@ title: Simon - Musique
      
 <a class="btn btn-default" href="https://soundcloud.com/simon-todeschini">
     <i class="fa fa-soundcloud fa-3x pull-left"></i>
-    SoundCloud
+    <font size="9">SoundCloud</font>
 </a>
      
      
