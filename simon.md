@@ -2,7 +2,7 @@
 title : Simon
 ---
 
-<a class="btn btn-default btn-sm" href="https://soundcloud.com/simon-todeschini">
-    <i class="fa fa-soundcloud fs-150"></i> 
-    SoundCloud
+<a class="btn btn-default btn-sm" href="simon-music">
+    <i class="fa fa-headphones"></i> 
+    Musique
 </a>
