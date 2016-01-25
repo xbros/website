@@ -42,6 +42,7 @@ title: Simon - Musique
     <i class="fa fa-file-audio-o fa-2x"></i>
     MP3 Download
 </a>    
+    
      
 **SPARKLES**
      
@@ -51,8 +52,16 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-2x"></i>
     SPARKLES
 </a>
-   
-   
+<a class="btn btn-default btn-sm" href="simon-music/sparkles.wav" download="sparkles.wav">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    WAV Download
+</a>  
+<a class="btn btn-default btn-sm" href="simon-music/sparkles.mp3" download="sparkles.mp3">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    MP3 Download
+</a>   
+    
+    
 **THE INTERROGATION**
      
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237524384&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
