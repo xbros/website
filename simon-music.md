@@ -1,5 +1,5 @@
 ---
-# Musique
+title: Musique
 ---
 <a class="btn btn-default" href="https://soundcloud.com/simon-todeschini">
     <i class="fa fa-soundcloud fa-2x pull-left"></i>
@@ -8,7 +8,7 @@
 ---
 ---
 
-## ACOUSTIC CHILLNESS
+**ACOUSTIC CHILLNESS**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243237682&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -19,7 +19,7 @@
 ---
 ---
 
-## FALLING LEAVES
+**FALLING LEAVES**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240812399&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -30,7 +30,7 @@
 ---
 ---
 
-## SPARKLES
+**SPARKLES**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240331381&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -41,7 +41,7 @@
 ---
 ---
 
-## THE INTERROGATION
+**THE INTERROGATION**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237524384&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -52,7 +52,7 @@
 ---
 ---
 
-## TEMPLE'S DEMON
+**TEMPLE'S DEMON**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236815628&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -63,7 +63,7 @@
 ---
 ---
 
-## STARE
+**STARE**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236505171&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -74,7 +74,7 @@
 ---
 ---
 
-## SWEEPS
+**SWEEPS**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236502616&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -85,7 +85,7 @@
 ---
 ---
 
-## DEEP SHIT !
+**DEEP SHIT**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235453910&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -96,7 +96,7 @@
 ---
 ---
 
-## 1st_track
+**1st_track**
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/226096383&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -104,5 +104,3 @@
     <i class="fa fa-soundcloud"></i>
     1st_track
 </a>
----
----
