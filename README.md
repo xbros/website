@@ -6,14 +6,14 @@ tools:
 [[slack](https://todxbros.slack.com)] 
 
 dev:
-[[ressources](resources.html)] 
-[[coding rules](codingrules.html)] 
-[[todo](todo.html)] 
-[[system](system.html)] 
+[[ressources](https://xbros.tspace.fr/resources.html)] 
+[[coding rules](https://xbros.tspace.fr/codingrules.html)] 
+[[todo](https://xbros.tspace.fr/todo.html)] 
+[[system](https://xbros.tspace.fr/system.html)] 
 
 team: 
-[[adrien](adrien/)] 
-[[simon](simon/)]
+[[adrien](https://xbros.tspace.fr/adrien.html)] 
+[[simon](https://xbros.tspace.fr/simon.html)]
 
 admin: 
 [[webmin](https://sd-63062.tspace.fr:10000)] 
