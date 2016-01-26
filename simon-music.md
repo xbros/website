@@ -160,7 +160,7 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-2x"></i>
     1st_track
 </a>
-<a class="btn btn-default btn-sm" href="simon-music/2015-10-30_1st-track.wav" download="1st-track.wav">
+<a class="btn btn-default btn-sm" onclick"trackOutDownloadLink('WAV', '1st_track')" href="simon-music/2015-10-30_1st-track.wav" download="1st-track.wav">
     <i class="fa fa-file-audio-o fa-2x"></i>
     WAV Download
 </a>
