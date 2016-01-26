@@ -164,7 +164,18 @@ title: Simon - Musique
     <i class="fa fa-file-audio-o fa-2x"></i>
     WAV Download
 </a>
-<a class="btn btn-default btn-sm" href="simon-music/2015-10-30_1st-track.mp3" download="1st-track.mp3">
+<a class="btn btn-default btn-sm" onclick"trackOutDownloadLink('MP3', '1st_track')" href="simon-music/2015-10-30_1st-track.mp3" download="1st-track.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
     MP3 Download
 </a>
+
+<script>
+    var trackOutDownloadLink = function(fileType, sound) {
+        ga('send', {
+          hitType: 'event',
+          eventCategory: 'Downloads',
+          eventAction: fileType,
+          eventLabel: sound
+        });
+    }
+</script>
