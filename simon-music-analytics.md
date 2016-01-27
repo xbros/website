@@ -64,6 +64,7 @@ gapi.analytics.ready(function() {
       'start-date': '30daysAgo',
       'end-date': 'yesterday',
       sort: '-ga:totalEvents'
+      
     },
     chart: {
       container: 'chart-1-container',
