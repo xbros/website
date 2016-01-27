@@ -59,12 +59,12 @@ gapi.analytics.ready(function() {
    */
   var dataChart1 = new gapi.analytics.googleCharts.DataChart({
     query: {
-      metrics: 'ga:sessions',
-      dimensions: 'ga:country',
+      metrics: 'ga:events',
+      dimensions: 'ga:action',
       'start-date': '30daysAgo',
       'end-date': 'yesterday',
       'max-results': 6,
-      sort: '-ga:sessions'
+      sort: '-ga:events'
     },
     chart: {
       container: 'chart-1-container',
