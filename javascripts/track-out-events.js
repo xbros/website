@@ -2,6 +2,7 @@
  * Created by Simon on 27/01/2016.
  */
 
+<script>
 var trackOutEvents = function(category, action, label) {
     ga('send', {
         hitType: 'event',
@@ -10,3 +11,4 @@ var trackOutEvents = function(category, action, label) {
         eventLabel: label
     });
 }
+</script>

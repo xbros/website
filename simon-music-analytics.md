@@ -16,6 +16,5 @@ title: Simon - Musique - Analytics **BETA**
 }(window,document,'script'));
 </script>
 
-<script>
-    <?php include("test-analytics.js"); ?>
-</scripts>
+<?php include("test-analytics.js"); ?>
+
