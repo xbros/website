@@ -6,6 +6,10 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-3x pull-left"></i>
     <font size="6">SoundCloud</font>
 </a>
+<a class="btn btn-default" href="https://xbros.tspace.fr/simon-music-analytics.html">
+    <i class="fa fa-area-chart fa-3x pull-left"></i>
+    <font size="6">Analytics</font>
+</a>
      
      
 **ACOUSTIC CHILLNESS**
