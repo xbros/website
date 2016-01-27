@@ -63,7 +63,7 @@ gapi.analytics.ready(function() {
       dimensions: 'ga:eventAction',
       'start-date': '30daysAgo',
       'end-date': 'yesterday',
-      sort: '-ga:totalEvents'
+      sort: 'ga:totalEvents'
     },
     chart: {
       container: 'chart-1-container',
@@ -82,12 +82,11 @@ gapi.analytics.ready(function() {
    */
   var dataChart2 = new gapi.analytics.googleCharts.DataChart({
     query: {
-      metrics: 'ga:sessions',
-      dimensions: 'ga:country',
+      metrics: 'ga:totalEvents',
+      dimensions: 'ga:eventLabel',
       'start-date': '30daysAgo',
       'end-date': 'yesterday',
-      'max-results': 6,
-      sort: '-ga:sessions'
+      sort: 'ga:totalEvents'
     },
     chart: {
       container: 'chart-2-container',
