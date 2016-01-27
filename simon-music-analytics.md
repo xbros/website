@@ -2,6 +2,12 @@
 title: Simon - Musique - Analytics **BETA**
 ---
 
+<div id="embed-api-auth-container"></div>
+<div id="chart-container"></div>
+<div id="chart-container-2"></div>
+<div id="view-selector-container"></div>
+<div id="view-selector-container-2"></div>
+
 <script>
 (function(w,d,s,g,js,fs){
   g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(f){this.q.push(f);}};
@@ -10,10 +16,6 @@ title: Simon - Musique - Analytics **BETA**
   fs.parentNode.insertBefore(js,fs);js.onload=function(){g.load('analytics');};
 }(window,document,'script'));
 </script>
-
-<div id="embed-api-auth-container"></div>
-<div id="chart-container"></div>
-<div id="view-selector-container"></div>
 
 <script>
 
@@ -37,9 +39,13 @@ gapi.analytics.ready(function() {
   var viewSelector = new gapi.analytics.ViewSelector({
     container: 'view-selector-container'
   });
+  var viewSelector-2 = new gapi.analytics.ViewSelector({
+    container: 'view-selector-container-2'
+  });
 
   // Render the view selector to the page.
   viewSelector.execute();
+  viewSelector-2.execute();
 
 
   /**
@@ -62,6 +68,21 @@ gapi.analytics.ready(function() {
       }
     }
   });
+  var dataChart-2 = new gapi.analytics.googleCharts.DataChart({
+    query: {
+      metrics: 'ga:sessions',
+      dimensions: 'ga:date',
+      'start-date': '30daysAgo',
+      'end-date': 'yesterday'
+    },
+    chart: {
+      container: 'chart-container',
+      type: 'LINE',
+      options: {
+        width: '100%'
+      }
+    }
+  });
 
 
   /**
@@ -70,6 +91,9 @@ gapi.analytics.ready(function() {
   viewSelector.on('change', function(ids) {
     dataChart.set({query: {ids: ids}}).execute();
   });
+  viewSelector-2.on('change', function(ids) {
+      dataChart-2.set({query: {ids: ids}}).execute();
+    });
 
 });
 </script>
