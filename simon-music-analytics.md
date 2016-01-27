@@ -4,8 +4,8 @@ title: Simon - Musique - Analytics **BETA**
 
 **Work in progress**   
 --------------------
-Please **do not click** on the button below and try to log in
-It is meant for developers use only
+Please **do not click** on the button below and try to log in   
+It is meant for developers use only   
 Statistic charts are coming shortly
 
 <div id="embed-api-auth-container"></div>
