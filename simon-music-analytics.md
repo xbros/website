@@ -66,7 +66,7 @@ gapi.analytics.ready(function() {
 
   /**
    * Render the dataChart on the page whenever a new view is selected.
-   */
+   */ 
   viewSelector.on('change', function(ids) {
     dataChart.set({query: {ids: ids}}).execute();
   });
