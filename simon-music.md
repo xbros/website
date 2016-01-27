@@ -173,13 +173,4 @@ title: Simon - Musique
     MP3 Download
 </a>
 
-<script>
-    var trackOutEvents = function(category, action, label) {
-        ga('send', {
-          hitType: 'event',
-          eventCategory: category,
-          eventAction: action,
-          eventLabel: label
-        });
-    }
-</script>
+<script src="javascripts/track-out-events.js"></script>
