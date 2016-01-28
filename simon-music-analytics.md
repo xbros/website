@@ -67,7 +67,7 @@ gapi.analytics.ready(function() {
     query: {
       metrics: 'ga:totalEvents',
       dimensions: 'ga:eventAction',
-      'start-date': '2016-01-26',
+      'start-date': '2016-01-27',
       'end-date': 'today',
       sort: 'ga:totalEvents'
     },
@@ -90,7 +90,7 @@ gapi.analytics.ready(function() {
     query: {
       metrics: 'ga:totalEvents',
       dimensions: 'ga:eventLabel',
-      'start-date': '2016-01-26',
+      'start-date': '2016-01-27',
       'end-date': 'today',
       sort: 'ga:totalEvents'
     },
