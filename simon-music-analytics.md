@@ -31,7 +31,7 @@ gapi.analytics.ready(function() {
    */
   gapi.analytics.auth.authorize({
       'serverAuth': {
-        'access_token': '{{ ACCESS_TOKEN_FROM_SERVICE_ACCOUNT }}'
+        'access_token': 'get_access_token():'
       }
     });
 
