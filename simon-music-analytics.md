@@ -94,7 +94,7 @@ gapi.analytics.ready(function() {
       'start-date': '2016-01-27',
       'end-date': 'today',
       sort: 'ga:uniqueEvents',
-      filters: 'eventCategory==Downloads'
+      filters: 'ga:eventCategory==Downloads'
     },
     chart: {
       container: 'chart-2-container',
