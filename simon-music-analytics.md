@@ -65,7 +65,7 @@ gapi.analytics.ready(function() {
    */
   var dataChart1 = new gapi.analytics.googleCharts.DataChart({
     query: {
-      metrics: 'ga:totalEvents',
+      metrics: 'ga:uniqueEvents',
       dimensions: 'ga:eventAction',
       'start-date': '2016-01-27',
       'end-date': 'today',
@@ -88,7 +88,7 @@ gapi.analytics.ready(function() {
    */
   var dataChart2 = new gapi.analytics.googleCharts.DataChart({
     query: {
-      metrics: 'ga:totalEvents',
+      metrics: 'ga:uniqueEvents',
       dimensions: 'ga:eventLabel',
       'start-date': '2016-01-27',
       'end-date': 'today',
