@@ -69,7 +69,8 @@ gapi.analytics.ready(function() {
       dimensions: 'ga:eventAction',
       'start-date': '2016-01-27',
       'end-date': 'today',
-      sort: 'ga:totalEvents'
+      sort: 'ga:totalEvents',
+      filters: 'ga:eventCategory==Downloads'
     },
     chart: {
       container: 'chart-1-container',
@@ -92,7 +93,8 @@ gapi.analytics.ready(function() {
       dimensions: 'ga:eventLabel',
       'start-date': '2016-01-27',
       'end-date': 'today',
-      sort: 'ga:totalEvents'
+      sort: 'ga:totalEvents',
+      filters: 'eventCategory==Downloads'
     },
     chart: {
       container: 'chart-2-container',
