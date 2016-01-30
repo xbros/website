@@ -20,7 +20,6 @@ title: Simon - Musique
      
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243237682&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<audio src="simon-music/2016-01-07_acoustic-chillness.mp3" type="audio/mpeg"></audio>
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'ACOUSTIC CHILLNESS')" href="https://soundcloud.com/simon-todeschini/acoustic-chillness" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
     ACOUSTIC CHILLNESS
