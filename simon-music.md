@@ -18,9 +18,7 @@ title: Simon - Musique
      
 **ACOUSTIC CHILLNESS**
      
-<article id="listenAcousticChillness">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243237682&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'ACOUSTIC CHILLNESS')" href="https://soundcloud.com/simon-todeschini/acoustic-chillness" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -38,9 +36,7 @@ title: Simon - Musique
      
 **FALLING LEAVES**
      
-<article id="listenFallingLeaves">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240812399&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'FALLING LEAVES')" href="https://soundcloud.com/simon-todeschini/falling-leaves" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -58,9 +54,7 @@ title: Simon - Musique
      
 **SPARKLES**
      
-<article id="listenSparkles">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240331381&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'SPARKLES')" href="https://soundcloud.com/simon-todeschini/sparkles" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -78,9 +72,7 @@ title: Simon - Musique
     
 **THE INTERROGATION**
      
-<article id="listenTheInterrogation">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237524384&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'THE INTERROGATION')" href="https://soundcloud.com/simon-todeschini/the-interrogation" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -98,9 +90,7 @@ title: Simon - Musique
      
 **TEMPLE'S DEMON**
      
-<article id="listenTemplesDemon">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236815628&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'TEMPLE S DEMON')" href="https://soundcloud.com/simon-todeschini/temples-demon" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -118,9 +108,7 @@ title: Simon - Musique
      
 **STARE**
      
-<article id="listenStare">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236505171&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'STARE')" href="https://soundcloud.com/simon-todeschini/stare" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -138,9 +126,7 @@ title: Simon - Musique
      
 **SWEEPS**
      
-<article id="listenSweeps">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/236502616&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'SWEEPS')" href="https://soundcloud.com/simon-todeschini/sweeps" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -158,9 +144,7 @@ title: Simon - Musique
      
 **DEEP SHIT !**
      
-<article id="listenDeepShit">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235453910&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'DEEP SHIT !')" href="https://soundcloud.com/simon-todeschini/deep-shit" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -178,9 +162,7 @@ title: Simon - Musique
      
 **1st_track**
      
-<article id="listen1stTrack">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/226096383&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-</article>
 
 <a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', '1st_track')" href="https://soundcloud.com/simon-todeschini/1st_track" target="_blank">
     <i class="fa fa-soundcloud fa-2x"></i>
@@ -206,15 +188,3 @@ var trackOutEvents = function(category, action, label) {
 }
 </script>
 
-<script>
-document.getElementById("listenAcousticChillness").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'ACOUSTIC CHILLNESS')", false);
-document.getElementById("listenFallingLeaves").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'FALLING LEAVES')", false);
-document.getElementById("listenSparkles").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'SPARKLES')", false);
-document.getElementById("listenTheInterrogation").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'THE INTERROGATION')", false);
-document.getElementById("listenTemplesDemon").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'TEMPLE S DEMON')", false);
-document.getElementById("listenStare").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'STARE')", false);
-document.getElementById("listenSweeps").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'SWEEPS')", false);
-document.getElementById("listenDeepShit").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'DEEP SHIT !')", false);
-document.getElementById("listen1stTrack").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', '1st_track')", false);
-
-</script>
