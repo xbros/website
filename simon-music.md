@@ -11,8 +11,8 @@ title: Simon - Musique
     <font size="6">Analytics</font>
 </a>
 <a class="btn btn-default" href="https://www.paypal.me/SimonTodeschini/" target="_blank">
-    <i class="fa fa-area-chart fa-3x pull-left"></i>
-    <font size="6">Analytics</font>
+    <i class="fa fa-cc-paypal fa-3x pull-left"></i>
+    <font size="6">Donation</font>
 </a>
      
      
