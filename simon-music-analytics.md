@@ -11,8 +11,10 @@ Statistic charts are coming shortly
 <div id="embed-api-auth-container"></div>
 <div id="chart-1-container"></div>
 <div id="chart-2-container"></div>
+<div id="chart-3-container"></div>
 <div id="view-selector-1-container"></div>
 <div id="view-selector-2-container"></div>
+<div id="view-selector-3-container"></div>
 
 <script>
 (function(w,d,s,g,js,fs){
@@ -52,10 +54,15 @@ Statistic charts are coming shortly
         var viewSelector2 = new gapi.analytics.ViewSelector({
             container: 'view-selector-2-container'
         });
+        
+        var viewSelector3 = new gapi.analytics.ViewSelector({
+                    container: 'view-selector-3-container'
+                });
 
         // Render both view selectors to the page.
         viewSelector1.execute();
         viewSelector2.execute();
+        viewSelector3.execute();
 
 
         /**
@@ -105,6 +112,24 @@ Statistic charts are coming shortly
             }
         });
 
+        var dataChart3 = new gapi.analytics.googleCharts.DataChart({
+            query: {
+                metrics: 'ga:uniqueEvents',
+                dimensions: 'ga:eventCategory',
+                'start-date': '2016-01-27',
+                'end-date': 'today',
+                sort: 'ga:uniqueEvents',
+            },
+            chart: {
+                container: 'chart-3-container',
+                type: 'PIE',
+                options: {
+                    width: '100%',
+                    pieHole: 4/9
+                }
+            }
+        });
+        
         /**
          * Update the first dataChart when the first view selecter is changed.
          */
@@ -117,6 +142,10 @@ Statistic charts are coming shortly
          */
         viewSelector2.on('change', function(ids) {
             dataChart2.set({query: {ids: ids}}).execute();
+        });
+        
+        viewSelector3.on('change', function(ids) {
+            dataChart3.set({query: {ids: ids}}).execute();
         });
 
     });
