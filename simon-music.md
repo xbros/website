@@ -197,6 +197,6 @@ document.getElementById("listenTemplesDemon").contentDocument.addEventListener('
 document.getElementById("listenStare").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'STARE')", false);
 document.getElementById("listenSweeps").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'SWEEPS')", false);
 document.getElementById("listenDeepShit").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', 'DEEP SHIT !')", false);
-document.getElementById("listen1stTrack").contentDocument.addEventListener('click', trackOutEvents('Listen', 'SoundCloud', '1st_track')", false);
+document.getElementById("listen1stTrack").addEventListener('click', trackOutEvents('Listen', 'SoundCloud', '1st_track')", false);
 
 </script>
