@@ -144,6 +144,9 @@ Statistic charts are coming shortly
             dataChart2.set({query: {ids: ids}}).execute();
         });
         
+        /**
+         * Update the second dataChart when the third view selecter is changed.
+         */
         viewSelector3.on('change', function(ids) {
             dataChart3.set({query: {ids: ids}}).execute();
         });
