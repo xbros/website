@@ -2,6 +2,12 @@
 title: Simon - Musique - Analytics **BETA**
 ---
 
+<a class="btn btn-default" href="simon-music.html">
+    <i class="fa fa-headphones fa-3x pull-left"></i> 
+    Musique
+</a>
+
+
 **Work in progress**   
 --------------------
 Please **do not click** on the button below and try to log in   
