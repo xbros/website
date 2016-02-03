@@ -16,6 +16,24 @@ title: Simon - Musique
 </a>
      
      
+**REST ON THE CLIFF**
+     
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245227378&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+<a class="btn btn-default btn-sm" onclick="trackOutEvents('Click on Link', 'SoundCloud', 'REST ON THE CLIFF')" href="https://soundcloud.com/simon-todeschini/rest-on-the-cliff" target="_blank">
+    <i class="fa fa-soundcloud fa-2x"></i>
+    REST ON THE CLIFF
+</a>
+<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'WAV', 'REST ON THE CLIFF')" href="simon-music/2016-01-23_rest-on-the-cliff.wav" download="rest-on-the-cliff.wav">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    WAV Download
+</a>
+<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'MP3', 'REST ON THE CLIFF')" href="simon-music/2016-01-23_rest-on-the-cliff.mp3" download="rest-on-the-cliff.mp3">
+    <i class="fa fa-file-audio-o fa-2x"></i>
+    MP3 Download
+</a>
+     
+     
 **ACOUSTIC CHILLNESS**
      
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243237682&amp;color=ff00ff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
