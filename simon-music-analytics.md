@@ -86,9 +86,10 @@ Statistic charts are coming shortly
             },
             chart: {
                 container: 'chart-1-container',
-                type: 'BAR',
+                type: 'PIE',
                 options: {
                     width: '100%',
+                    pieHole: 4/9
                 }
             }
         });
