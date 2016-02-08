@@ -24,11 +24,11 @@ title: Simon - Musique
     <i class="fa fa-soundcloud fa-2x"></i>
     BAD PHILOSOPHY LEAD
 </a>
-<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'WAV', 'BAD PHILOSOPHY LEAD')" href="simon-music/2016-01-23_rest-on-the-cliff.wav" download="bad-philosophy-lead.wav">
+<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'WAV', 'BAD PHILOSOPHY LEAD')" href="simon-music/2016-02-04_bad-philosophy-lead.wav" download="bad-philosophy-lead.wav">
     <i class="fa fa-file-audio-o fa-2x"></i>
     WAV Download
 </a>
-<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'MP3', 'BAD PHILOSOPHY LEAD')" href="simon-music/2016-01-23_rest-on-the-cliff.mp3" download="bad-philosophy-lead.mp3">
+<a class="btn btn-default btn-sm" onclick="trackOutEvents('Downloads', 'MP3', 'BAD PHILOSOPHY LEAD')" href="simon-music/2016-02-04_bad-philosophy-lead.mp3" download="bad-philosophy-lead.mp3">
     <i class="fa fa-file-audio-o fa-2x"></i>
     MP3 Download
 </a>
