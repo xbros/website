@@ -18,7 +18,22 @@ function getIP() {
     return $ip;
 }
 
-echo getIP();
+function ip_details($ip) {
+    $json = file_get_contents("http://ipinfo.io/{$ip}");
+    $details = json_decode($json);
+    return $details;
+}
+
+
+$ip = getIP();
+
+$ipDetails = ip_details($ip);
+
+echo $ip;
+echo "</br>";
+echo $ipDetails->country;
+echo "</br>";
+echo $ipDetails->city;
 
 /*require_once __DIR__ . '/connection.php';
 $bdd = new DB_CONNECT();
