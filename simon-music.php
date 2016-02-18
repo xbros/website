@@ -19,7 +19,7 @@
 <div class="container">
     <h1>Simon music</h1>
 
-    <a class="btn btn-default quatre" href="#" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
+    <a class="btn btn-default quatre" href="https://soundcloud.com/simon-todeschini" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
