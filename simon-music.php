@@ -17,6 +17,9 @@
 <div class="container">
     <h1>Simon music</h1>
 
+    <h2>LE POULET</h2>
+    <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
+
     <h2>BAD PHILOSOPHY LEAD</h2>
     <div class="player" name="bad-philosophy-lead" path="2016-02-04_bad-philosophy-lead"></div>
 
