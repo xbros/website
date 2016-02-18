@@ -2,12 +2,12 @@
  * Created by Simon on 18/02/2016.
  */
 
-var writeActionBdd = function(action, type, son)
+var writeActionBdd = function()
 {
-    var ip=myip;
-    alert(ip);
+    alert(myip);
 };
 
+/*
 var ajaxMysqlRequest = function(lienPhp, returnElement)
 {
     if (window.XMLHttpRequest) {
@@ -25,3 +25,4 @@ var ajaxMysqlRequest = function(lienPhp, returnElement)
     xmlhttp.open("GET",lienPhp,true);
     xmlhttp.send();
 };
+*/

@@ -17,7 +17,7 @@
 <div class="container">
     <h1>Simon music</h1>
     
-    <button class="btn btn-default" onclick="alert('ok')"></button>
+    <button class="btn btn-default" onclick="writeActionBdd()"></button>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
