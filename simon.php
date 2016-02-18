@@ -12,10 +12,12 @@
 <body>
 <?php include("include/before_body.html"); ?>
 
+<div class="section">
+    <h1>Simon</h1>
 
-<h1>Simon</h1>
+    <a class="btn btn-default" href="simon-music.php"><i class="fa fa-headphones"></i> Music</a>
+</div>
 
-<a class="btn btn-default" href="simon-music.php"><i class="fa fa-headphones"></i> Music</a>
 
 
 <?php include("include/after_body.html"); ?>
