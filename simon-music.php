@@ -67,7 +67,7 @@
     <div class="player" name="st_track" path="2015-10-30_1st-track"></div>
 
     <script src="javascripts/audio-player.js" rel="script"></script>
-    <script href="javascripts/write-action-bdd.js"></script>
+    <script src="javascripts/write-action-bdd.js" rel="script"></script>
 
 </div>
 
