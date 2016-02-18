@@ -4,7 +4,14 @@
 
 var writeActionBdd = function()
 {
-    alert(myip);
+    $.ajax({
+        url: '//freegeoip.net/json/',
+        type: 'POST',
+        dataType: 'jsonp',
+        success: function(location) {
+            alert(location.ip);
+        }
+    });
 };
 
 /*

@@ -19,8 +19,6 @@
 <div class="container">
     <h1>Simon music</h1>
 
-    <script>var myip = '<?php echo $_SERVER['REMOTE_ADDR']; ?>';</script>
-
     <button class="btn btn-default" onclick="writeActionBdd()"></button>
 
     <h2>LE POULET</h2>
