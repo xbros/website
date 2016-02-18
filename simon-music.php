@@ -66,7 +66,7 @@
     <h2>1st_track</h2>
     <div class="player" name="st_track" path="2015-10-30_1st-track"></div>
 
-    <script src="javascripts/audio-player.js"></script>
+    <script src="javascripts/audio-player.js" rel="script"></script>
 
 </div>
 
