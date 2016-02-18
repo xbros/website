@@ -21,7 +21,7 @@
 
     <script>var myip = '<?php echo $_SERVER['REMOTE_ADDR']; ?>';</script>
 
-    <button class="btn btn-default" onclick="alert(myip)"></button>
+    <button class="btn btn-default" onclick="writeActionBdd()"></button>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
