@@ -16,6 +16,8 @@
 
 <div class="container">
     <h1>Simon music</h1>
+    
+    <button class="btn btn-default" onclick="writeActionBdd('action', 'type', 'son')"></button>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
@@ -69,5 +71,6 @@
 
 
 <?php include("include/after_body.html"); ?>
+<script href="javascripts/write-actions-bdd.js"></script>
 </body>
 </html>
