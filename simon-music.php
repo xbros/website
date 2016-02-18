@@ -19,7 +19,7 @@
 <div class="container">
     <h1>Simon music</h1>
 
-    <a class="btn btn-default quatre" href="https://soundcloud.com/simon-todeschini" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
+    <a class="btn btn-default quatre" href="#" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
@@ -67,12 +67,13 @@
     <div class="player" name="st_track" path="2015-10-30_1st-track"></div>
 
     <script src="javascripts/audio-player.js" rel="script"></script>
+    <script href="javascripts/write-action-bdd.js"></script>
 
 </div>
 
 <div id="errors"></div>
 
 <?php include("include/after_body.html"); ?>
-<script href="javascripts/write-action-bdd.js"></script>
+
 </body>
 </html>
