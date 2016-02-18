@@ -18,7 +18,7 @@ function getIP() {
     return $ip;
 }
 
-echo $ip;
+echo getIP();
 
 /*require_once __DIR__ . '/connection.php';
 $bdd = new DB_CONNECT();
