@@ -1,6 +1,10 @@
 /**
  * Created by Simon on 18/02/2016.
  */
+window.onload = function() {
+    createPlayers();
+};
+
 function createPlayers(){
     var players = document.getElementsByClassName("player");
     var i;
