@@ -8,6 +8,7 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
     <?php include("include/in_header.html"); ?>
+    <link rel="stylesheet" href="simon.css">
 </head>
 <body>
 <?php include("include/before_body.html"); ?>
@@ -15,7 +16,7 @@
 <div class="container">
     <h1>Simon</h1>
 
-    <a class="btn btn-default" href="simon-music.php"><i class="fa fa-headphones"></i> Music</a>
+    <a class="btn btn-default quatre" href="simon-music.php"><i class="fa fa-headphones quatre"></i> Music</a>
 </div>
 
 
