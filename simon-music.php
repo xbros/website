@@ -10,13 +10,17 @@
     <?php include("include/in_header.html"); ?>
     <link rel="stylesheet" href="simon.css">
     <link rel="stylesheet" href="audio-player.css">
+
+
 </head>
 <body>
 <?php include("include/before_body.html"); ?>
 
 <div class="container">
     <h1>Simon music</h1>
-    
+
+    <script>var myip = '<?php echo $_SERVER['REMOTE_ADDR']; ?>';</script>
+
     <button class="btn btn-default" onclick="alert(myip)"></button>
 
     <h2>LE POULET</h2>
@@ -71,7 +75,6 @@
 
 
 <?php include("include/after_body.html"); ?>
-<script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
 <script href="javascripts/write-action-bdd.js"></script>
 </body>
 </html>
