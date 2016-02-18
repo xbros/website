@@ -19,7 +19,7 @@
 <div class="container">
     <h1>Simon music</h1>
 
-    <button class="btn btn-default" onclick="writeActionBdd()"></button>
+    <a class="btn btn-default quatre" href="https://soundcloud.com/simon-todeschini" onclick="writeActionBdd('link', 'soundcloud', '')"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
 
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
@@ -70,7 +70,7 @@
 
 </div>
 
-
+<div id="errors"></div>
 
 <?php include("include/after_body.html"); ?>
 <script href="javascripts/write-action-bdd.js"></script>

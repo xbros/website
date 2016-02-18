@@ -2,19 +2,6 @@
  * Created by Simon on 18/02/2016.
  */
 
-var writeActionBdd = function()
-{
-    $.ajax({
-        url: '//freegeoip.net/json/',
-        type: 'POST',
-        dataType: 'jsonp',
-        success: function(location) {
-            alert(location.ip);
-        }
-    });
-};
-
-/*
 var ajaxMysqlRequest = function(lienPhp, returnElement)
 {
     if (window.XMLHttpRequest) {
@@ -32,4 +19,13 @@ var ajaxMysqlRequest = function(lienPhp, returnElement)
     xmlhttp.open("GET",lienPhp,true);
     xmlhttp.send();
 };
-*/
+
+var writeActionBdd = function(action, type, son)
+{
+    var lienPhp = "http://xbros.tspace.fr/bdd/sql_write-new-action.php?action=" + action + "&type=" + type + "&son=" + son;
+    var returnElement = "errors";
+    ajaxMysqlRequest(lienPhp, returnElement);
+};
+
+
+
