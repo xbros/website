@@ -10,6 +10,8 @@
     <?php include("include/in_header.html"); ?>
     <link rel="stylesheet" href="simon.css">
     <link rel="stylesheet" href="audio-player.css">
+
+    <script type="text/javascript" src="http://l2.io/ip.js?var=myip"></script>
 </head>
 <body>
 <?php include("include/before_body.html"); ?>

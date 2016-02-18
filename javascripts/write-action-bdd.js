@@ -4,13 +4,9 @@
 
 var writeActionBdd = function(action, type, son)
 {
-    var ip=getip();
+    var ip=myip;
     alert(ip);
 };
-
-function getip(json) {
-    return(json.ip);
-}
 
 var ajaxMysqlRequest = function(lienPhp, returnElement)
 {
