@@ -73,7 +73,6 @@
 
 
 <?php include("include/after_body.html"); ?>
-<script href="javascripts/write-actions-bdd.js"></script>
-<script type="application/javascript" src="http://jsonip.appspot.com/?callback=getip">  </script>
+<script href="javascripts/write-action-bdd.js"></script>
 </body>
 </html>
