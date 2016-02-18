@@ -1,6 +1,17 @@
 /**
  * Created by Simon on 18/02/2016.
  */
+
+var writeActionBdd = function(action, type, son)
+{
+    var ip=getip();
+    alert(ip);
+};
+
+function getip(json) {
+    return(json.ip);
+}
+
 var ajaxMysqlRequest = function(lienPhp, returnElement)
 {
     if (window.XMLHttpRequest) {
