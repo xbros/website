@@ -12,7 +12,7 @@
 <body>
 <?php include("include/before_body.html"); ?>
 
-<div class="section">
+<div class="container">
     <h1>Simon</h1>
 
     <a class="btn btn-default" href="simon-music.php"><i class="fa fa-headphones"></i> Music</a>
