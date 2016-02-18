@@ -10,7 +10,7 @@ require_once __DIR__ . '/connection.php';
 $bdd = new DB_CONNECT();
 
 
-if($_GET['type'] == "" && $GET['son'] == "")
+if($_GET['type'] == "" && $_GET['son'] == "")
 {
     $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."')";
 }
