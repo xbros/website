@@ -24,6 +24,7 @@ var writeActionBdd = function(action, type, son)
 {
     var lienPhp = "http://xbros.tspace.fr/bdd/sql_write-new-action.php?action=" + action + "&type=" + type + "&son=" + son;
     var returnElement = "errors";
+    alert(lienPhp);
     ajaxMysqlRequest(lienPhp, returnElement);
 };
 
