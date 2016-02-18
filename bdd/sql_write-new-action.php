@@ -11,15 +11,15 @@ $bdd = new DB_CONNECT();
 
 if($_GET['type'] == "")
 {
-    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action, type, son) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."', '".$_GET['son']."')";
+    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action, son) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."', '".$_GET['son']."')";
 }
 elseif($GET['son'] == "")
 {
-    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action, type, son) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."', '".$_GET['type']."')";
+    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action, type) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."', '".$_GET['type']."')";
 }
 elseif($_GET['type'] == "" && $GET['son'] == "")
 {
-    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action, type, son) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."')";
+    $stmt_add_action = "INSERT INTO musicStats (ip, pays, date, action) VALUES ('".$_GET['ip']."', '".$_GET['pays']."', NOW(), '".$_GET['action']."')";
 }
 else
 {
