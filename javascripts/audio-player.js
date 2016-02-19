@@ -3,6 +3,7 @@
  */
 window.onload = function() {
     createPlayers();
+    writeActionBdd('visit', '', '');
 };
 
 function createPlayers(){
@@ -26,7 +27,7 @@ function createPlayers(){
             "<div class='progress-bar' id='" + progressId + "' role='progressbar' aria-valuemin='0' aria-valuemax='100'>" +
             "</div>" +
             "</div>" +
-            "<button class='control btn btn-default' onclick=\"play(\'" + playerId + "\', this); writeActionBdd('listen', '" + son + "', )\"><i class='fa fa-play'></i></button>" +
+            "<button class='control btn btn-default' onclick=\"play(\'" + playerId + "\', this); writeActionBdd('listen', '" + son + "', '')\"><i class='fa fa-play'></i></button>" +
             "<button class='control btn btn-default' onclick=\"stop(\'" + playerId + "\')\"><i class='fa fa-stop'></i></button>" +
             "<div class='dropdown btn btn-default'>" +
             "<div href='#' class='dropdown-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'><i class='fa fa-volume-up'></i> Volume <span class='caret'></span></div>" +
