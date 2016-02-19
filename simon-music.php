@@ -23,49 +23,49 @@
     <a class="btn btn-default quatre" href="https://www.paypal.me/SimonTodeschini/" onclick="writeActionBdd('link', 'paypal', '')" target="_blank"><i class="fa fa-cc-paypal quatre"></i> Donation - PayPal</a>
 
     <h2>LE POULET</h2>
-    <div class="player" name="le-poulet" path="2016-02-16_le-poulet"></div>
+    <div class="player" name="le-poulet" path="2016-02-16_le-poulet" son="LE POULET"></div>
 
     <h2>BAD PHILOSOPHY LEAD</h2>
-    <div class="player" name="bad-philosophy-lead" path="2016-02-04_bad-philosophy-lead"></div>
+    <div class="player" name="bad-philosophy-lead" path="2016-02-04_bad-philosophy-lead" son="BAD PHILOSOPHY LEAD"></div>
 
     <h2>REST ON THE CLIFF</h2>
-    <div class="player" name="rest-on-the-cliff" path="2016-01-23_rest-on-the-cliff"></div>
+    <div class="player" name="rest-on-the-cliff" path="2016-01-23_rest-on-the-cliff" son="REST ON THE CLIFF"></div>
 
 
     <h2>ACOUSTIC CHILLNESS</h2>
-    <div class="player" name="acoustic-chillness" path="2016-01-07_acoustic-chillness"></div>
+    <div class="player" name="acoustic-chillness" path="2016-01-07_acoustic-chillness" son="ACOUSTIC CHILLNESS"></div>
 
 
     <h2>FALLING LEAVES</h2>
-    <div class="player" name="falling-leaves" path="2016-01-04_falling-leaves"></div>
+    <div class="player" name="falling-leaves" path="2016-01-04_falling-leaves" son="FALLING LEAVES"></div>
 
 
     <h2>SPARKLES</h2>
-    <div class="player" name="sparkles" path="2015-12-27_sparkles"></div>
+    <div class="player" name="sparkles" path="2015-12-27_sparkles" son="SPARKLES"></div>
 
 
     <h2>THE INTERROGATION</h2>
-    <div class="player" name="the-interrogation" path="2015-12-14_the-interrogation"></div>
+    <div class="player" name="the-interrogation" path="2015-12-14_the-interrogation" son="THE INTERROGATION"></div>
 
 
     <h2>TEMPLE'S DEMON</h2>
-    <div class="player" name="temple-s-demon" path="2015-12-09_temple-s-demon"></div>
+    <div class="player" name="temple-s-demon" path="2015-12-09_temple-s-demon" son="TEMPLE S DEMON"></div>
 
 
     <h2>STARE</h2>
-    <div class="player" name="stare" path="2015-12-07_stare"></div>
+    <div class="player" name="stare" path="2015-12-07_stare" son="STARE"></div>
 
 
     <h2>SWEEPS</h2>
-    <div class="player" name="sweeps" path="2015-12-02_sweeps"></div>
+    <div class="player" name="sweeps" path="2015-12-02_sweeps" son="SWEEPS"></div>
 
 
     <h2>DEEP SHIT !</h2>
-    <div class="player" name="deep-shit" path="2015-11-30_deep-shit"></div>
+    <div class="player" name="deep-shit" path="2015-11-30_deep-shit" son="DEEP SHIT"></div>
 
 
     <h2>1st_track</h2>
-    <div class="player" name="st_track" path="2015-10-30_1st-track"></div>
+    <div class="player" name="st_track" path="2015-10-30_1st-track" son="1st_track"></div>
 
     <script src="javascripts/audio-player.js" rel="script"></script>
     <script src="javascripts/write-action-bdd.js" rel="script"></script>
