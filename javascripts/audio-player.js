@@ -42,9 +42,9 @@ function createPlayers(){
         buttonsId = 'buttons-' + name;
         var buttons = document.getElementById(buttonsId);
         var soundcloudLink = buttons.getAttribute("soundcloud");
-        var innerButton = "<button class='btn btn-default' href='" + soundcloudLink + "'><i class='fa fa-soundcloud'></i> " + son + "</button>" +
-                "<a class='btn btn-default' href='simon-music/" + path + ".wav' download='" + son + ".wav'><i class='fa fa-file-audio-o'></i> wav Download</a>" +
-                "<a class='btn btn-default' href='simon-music/" + path + ".mp3' download='" + son + ".mp3'><i class='fa fa-file-audio-o'></i> mp3 Download</a>";
+        var innerButton = "<a class='btn btn-default' href='" + soundcloudLink + "' onclick=\"writeActionBdd('link', 'soundcloud', '" + son + "')\"><i class='fa fa-soundcloud'></i> " + son + "</a>" +
+                "<a class='btn btn-default' href='simon-music/" + path + ".wav' download='" + son + ".wav' onclick=\"writeActionBdd('download', 'wav', '" + son + "')\"><i class='fa fa-file-audio-o'></i> wav Download</a>" +
+                "<a class='btn btn-default' href='simon-music/" + path + ".mp3' download='" + son + ".mp3' onclick=\"writeActionBdd('download', 'mp3', '" + son + "')\"><i class='fa fa-file-audio-o'></i> mp3 Download</a>";
 
         buttons.innerHTML = innerButton;
     }
