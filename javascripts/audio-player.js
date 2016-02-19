@@ -38,7 +38,17 @@ function createPlayers(){
             "</div>";
 
         players[i].innerHTML = inner;
+
+        buttonsId = 'buttons-' + name;
+        var buttons = document.getElementById(buttonsId);
+        var soundcloudLink = buttons.getAttribute("soundcloud");
+        var innerButton = "<button class='btn btn-default' href='" + soundcloudLink + "'><i class='fa fa-soundcloud'></i> " + son + "</button>" +
+                "<a class='btn btn-default' href='simon-music/" + path + ".wav' download='" + son + ".wav'><i class='fa fa-file-audio-o'></i> wav Download</a>" +
+                "<a class='btn btn-default' href='simon-music/" + path + ".mp3' download='" + son + ".mp3'><i class='fa fa-file-audio-o'></i> mp3 Download</a>";
+
+        buttons.innerHTML = innerButton;
     }
+    
 }
 
 function play(idPlayer, control) {
