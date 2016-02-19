@@ -2,3 +2,13 @@
 {
     font-size: 30px;
 }
+
+h2
+{
+    margin-top: 30px;
+}
+
+.player, .multiple-buttons
+{
+    display: inline-block;
+}
