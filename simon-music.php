@@ -7,8 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="lib/bootstrap-3.3.1/css/bootstrap.min.css" rel="stylesheet" />
     <script src="lib/bootstrap-3.3.1/js/bootstrap.min.js"></script>
-    <script src="lib/bootstrap-3.3.1/shim/html5shiv.min.js"></script>
-    <script src="lib/bootstrap-3.3.1/shim/respond.min.js"></script>
 
 
     <?php include("include/in_header.html"); ?>
