@@ -6,10 +6,9 @@
 
 var writeActionBdd = function(action, type, son)
 {
-    /*var lienPhp = "http://xbros.tspace.fr/bdd/sql_write-new-action.php?action=" + action + "&type=" + type + "&son=" + son;
+    var lienPhp = "https://xbros.tspace.fr/bdd/sql_write-new-action.php?action=" + action + "&type=" + type + "&son=" + son;
     var returnElement = "errors";
-    ajaxMysqlRequest(lienPhp, returnElement);*/
-    alert(action + type + son);
+    ajaxMysqlRequest(lienPhp, returnElement);
 };
 
 var ajaxMysqlRequest = function(lienPhp, returnElement)
