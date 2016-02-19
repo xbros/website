@@ -28,47 +28,47 @@
 
     <h2>BAD PHILOSOPHY LEAD</h2>
     <div class="player" name="bad-philosophy-lead" path="2016-02-04_bad-philosophy-lead" son="BAD PHILOSOPHY LEAD"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/bad-philosophy-lead"></div>
+    <div class="multiple-buttons" id="buttons-bad-philosophy-lead" soundcloud="https://soundcloud.com/simon-todeschini/bad-philosophy-lead"></div>
 
     <h2>REST ON THE CLIFF</h2>
     <div class="player" name="rest-on-the-cliff" path="2016-01-23_rest-on-the-cliff" son="REST ON THE CLIFF"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/rest-on-the-cliff"></div>
+    <div class="multiple-buttons" id="buttons-rest-on-the-cliff" soundcloud="https://soundcloud.com/simon-todeschini/rest-on-the-cliff"></div>
 
     <h2>ACOUSTIC CHILLNESS</h2>
     <div class="player" name="acoustic-chillness" path="2016-01-07_acoustic-chillness" son="ACOUSTIC CHILLNESS"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/acoustic-chillness"></div>
+    <div class="multiple-buttons" id="buttons-acoustic-chillness" soundcloud="https://soundcloud.com/simon-todeschini/acoustic-chillness"></div>
 
     <h2>FALLING LEAVES</h2>
     <div class="player" name="falling-leaves" path="2016-01-04_falling-leaves" son="FALLING LEAVES"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/falling-leaves"></div>
+    <div class="multiple-buttons" id="buttons-falling-leaves" soundcloud="https://soundcloud.com/simon-todeschini/falling-leaves"></div>
 
     <h2>SPARKLES</h2>
     <div class="player" name="sparkles" path="2015-12-27_sparkles" son="SPARKLES"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/sparkles"></div>
+    <div class="multiple-buttons" id="buttons-sparkles" soundcloud="https://soundcloud.com/simon-todeschini/sparkles"></div>
 
     <h2>THE INTERROGATION</h2>
     <div class="player" name="the-interrogation" path="2015-12-14_the-interrogation" son="THE INTERROGATION"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/the-interrogation"></div>
+    <div class="multiple-buttons" id="buttons-the-interrogation" soundcloud="https://soundcloud.com/simon-todeschini/the-interrogation"></div>
 
     <h2>TEMPLE'S DEMON</h2>
     <div class="player" name="temple-s-demon" path="2015-12-09_temple-s-demon" son="TEMPLE S DEMON"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/temples-demon"></div>
+    <div class="multiple-buttons" id="buttons-temple-s-demon" soundcloud="https://soundcloud.com/simon-todeschini/temples-demon"></div>
 
     <h2>STARE</h2>
     <div class="player" name="stare" path="2015-12-07_stare" son="STARE"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/stare"></div>
+    <div class="multiple-buttons" id="buttons-stare" soundcloud="https://soundcloud.com/simon-todeschini/stare"></div>
 
     <h2>SWEEPS</h2>
     <div class="player" name="sweeps" path="2015-12-02_sweeps" son="SWEEPS"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/sweeps"></div>
+    <div class="multiple-buttons" id="buttons-sweeps" soundcloud="https://soundcloud.com/simon-todeschini/sweeps"></div>
 
     <h2>DEEP SHIT !</h2>
     <div class="player" name="deep-shit" path="2015-11-30_deep-shit" son="DEEP SHIT"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/deep-shit"></div>
+    <div class="multiple-buttons" id="buttons-deep-shit" soundcloud="https://soundcloud.com/simon-todeschini/deep-shit"></div>
 
     <h2>1st_track</h2>
     <div class="player" name="st_track" path="2015-10-30_1st-track" son="1st_track"></div>
-    <div class="multiple-buttons" soundcloud="https://soundcloud.com/simon-todeschini/1st_track"></div>
+    <div class="multiple-buttons" id="buttons-st_track" soundcloud="https://soundcloud.com/simon-todeschini/1st_track"></div>
 
 
     <script src="javascripts/audio-player.js" rel="script"></script>
