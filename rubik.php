@@ -11,8 +11,11 @@
 
     <?php include("include/in_header.html"); ?>
     <link rel="stylesheet" href="simon.css">
-    <link rel="stylesheet" href="../workspace/rubik/style.css">
-</head>
+
+    <style>
+        <?php include("../workspace/rubik/style.css") ?>
+    </style></head>
+
 <body>
 <?php include("include/before_body.html"); ?>
 
@@ -35,7 +38,12 @@
 
 <?php include("include/after_body.html"); ?>
 
-<script src="../workspace/rubik/js/rubik.js"></script>
-<script src="../workspace/rubik/js/scripts.js"></script>
+<script>
+    <?php include("../workspace/rubik/js/rubik.js"); ?>
+</script>
+
+<script>
+    <?php include("../workspace/rubik/js/scripts.js"); ?>
+</script>
 </body>
 </html>
