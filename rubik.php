@@ -35,7 +35,7 @@
 
 <?php include("include/after_body.html"); ?>
 
-<script src="js/rubik.js"></script>
-<script src="js/scripts.js"></script>
+<script src="../workspace/rubik/js/rubik.js"></script>
+<script src="../workspace/rubik/js/scripts.js"></script>
 </body>
 </html>
