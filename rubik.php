@@ -14,7 +14,8 @@
 
     <style>
         <?php include("../workspace/rubik/style.css") ?>
-    </style></head>
+    </style>
+</head>
 
 <body>
 <?php include("include/before_body.html"); ?>
