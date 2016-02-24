@@ -24,6 +24,10 @@
     <a class="btn btn-default quatre" href="https://soundcloud.com/simon-todeschini" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
     <a class="btn btn-default quatre" href="https://www.paypal.me/SimonTodeschini/" onclick="writeActionBdd('link', 'paypal', '')" target="_blank"><i class="fa fa-cc-paypal quatre"></i> Donation - PayPal</a>
 
+    <h2>FREAKY</h2>
+    <div class="player" name="freaky" path="2016-02-20_freaky" son="FREAKY"></div>
+    <div class="multiple-buttons" id="buttons-freaky" soundcloud="https://soundcloud.com/simon-todeschini/freaky"></div>
+
     <h2>LE POULET</h2>
     <div class="player" name="le-poulet" path="2016-02-16_le-poulet" son="LE POULET"></div>
     <div class="multiple-buttons" id="buttons-le-poulet" soundcloud="https://soundcloud.com/simon-todeschini/le-poulet"></div>
