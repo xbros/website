@@ -13,17 +13,21 @@
 
 
 <body>
-    <?php include("include/before_body.html"); ?>
 
-    <h1>Rubik's cube</h1>
-    <div id='my-cube' class="rb-cube"></div>
-    <div id='my-ctrl' class="rb-ctrl"></div>
-    <div class="rb-moves">
-        <button onclick="document.getElementById('my-moves').classList.toggle('hide')">Moves</button>
-        <p id='my-moves'></p>
+    <div class="container-fluid main-container">
+        <?php include("include/before_body.html"); ?>
+
+        <h1>Rubik's cube</h1>
+        <div id='my-cube' class="rb-cube"></div>
+        <div id='my-ctrl' class="rb-ctrl"></div>
+        <div class="rb-moves">
+            <button onclick="document.getElementById('my-moves').classList.toggle('hide')">Moves</button>
+            <p id='my-moves'></p>
+        </div>
+
+        <?php include("include/after_body.html"); ?>
     </div>
 
-    <?php include("include/after_body.html"); ?>
     <script src="rubik/rubik.js"></script>
     <script src="rubik/script.js"></script>
     <script src="lib/jquery-1.11.0/jquery.min.js"></script>
