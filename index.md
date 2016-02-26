@@ -2,7 +2,12 @@
 title: xbros
 ---
 
-# [rubik.js](rubik.php)
+Welcome to xbros!
+
+This is our sandbox for web development learning.
+Have a look at some projects below.
+
+# rubik.js
 
 A simple JavaScript Rubik's cube.
 
