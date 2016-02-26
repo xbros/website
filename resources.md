@@ -24,12 +24,7 @@ HTML & CSS:
 - http://www.normansblog.de/demos/browser-support-checklist-css3/
 - http://caniuse.com/
 
-Le code JavaScript `HTML5shiv` permet de faire en sorte que ces balises soient reconnues pour les versions d'Internet Explorer antérieures à IE9.
-```{html}
-<!--[if lt IE 9]>
-    <script src="http://github.com/aFarkas/html5shiv/blob/master/dist/html5shiv.js"></script>
-<![endif]-->
-```
+- http://static.debray-jerome.fr/49/styles/imagesrondes.css
 
 PHP MySQL:
 

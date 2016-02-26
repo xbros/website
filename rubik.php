@@ -21,21 +21,13 @@
 <?php include("include/before_body.html"); ?>
 
 
-<div id="faceo" class="divface decal"></div>
-
-<div class="divface">
-    <div id="faceg"></div>
-
-    <div id="facew"></div>
-
-    <div id="faceb"></div>
-</div>
-
-<div id="facer" class="divface decal"></div>
-
-<div id="facey" class="divface decal"></div>
-
-
+    <h1>Rubik's cube</h1>
+    <div id='cube' class="rb-cube"></div>
+    <div id='controls' class="rb-controls"></div>
+    <div class="rb-moves">
+        <button onclick="document.getElementById('moves').classList.toggle('hide')">Moves</button>
+        <p id='moves'></p>
+    </div>
 
 <?php include("include/after_body.html"); ?>
 
@@ -44,7 +36,7 @@
 </script>
 
 <script>
-    <?php include("../workspace/rubik/js/scripts.js"); ?>
+    <?php include("../workspace/rubik/js/script.js"); ?>
 </script>
 </body>
 </html>
