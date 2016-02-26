@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Rubik's Cube</title>
+    <title>Rubik's cube</title>
     <script src="lib/jquery-1.11.0/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="lib/bootstrap-3.3.1/css/bootstrap.min.css" rel="stylesheet" />
@@ -19,7 +19,6 @@
 
 <body>
 <?php include("include/before_body.html"); ?>
-
 
     <h1>Rubik's cube</h1>
     <div id='cube' class="rb-cube"></div>
