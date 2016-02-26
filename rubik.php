@@ -16,11 +16,11 @@
     <?php include("include/before_body.html"); ?>
 
     <h1>Rubik's cube</h1>
-    <div id='rb-cube' class="rb-cube"></div>
-    <div id='rb-ctrl' class="rb-ctrl"></div>
+    <div id='my-cube' class="rb-cube"></div>
+    <div id='my-ctrl' class="rb-ctrl"></div>
     <div class="rb-moves">
-        <button onclick="document.getElementById('moves').classList.toggle('hide')">Moves</button>
-        <p id='rb-moves'></p>
+        <button onclick="document.getElementById('my-moves').classList.toggle('hide')">Moves</button>
+        <p id='my-moves'></p>
     </div>
 
     <?php include("include/after_body.html"); ?>
