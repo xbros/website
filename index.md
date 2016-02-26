@@ -13,4 +13,4 @@ A simple JavaScript Rubik's cube.
 
 See a demo [here](rubik.php).
 
-View the project on [Github](https://github.com/xbros/rubik).
+View the project on [GitHub](https://github.com/xbros/rubik).
