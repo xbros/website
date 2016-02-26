@@ -3,39 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <title>Rubik's cube</title>
-    <script src="lib/jquery-1.11.0/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="lib/bootstrap-3.3.1/css/bootstrap.min.css" rel="stylesheet" />
-    <script src="lib/bootstrap-3.3.1/js/bootstrap.min.js"></script>
-
 
     <?php include("include/in_header.html"); ?>
     <link rel="stylesheet" href="simon.css">
-
-    <style>
-        <?php include("../rubik/style.css") ?>
-    </style>
+    <link rel="stylesheet" href="rubik/rubik.css">
 </head>
 
+
 <body>
-<?php include("include/before_body.html"); ?>
+    <?php include("include/before_body.html"); ?>
 
     <h1>Rubik's cube</h1>
-    <div id='cube' class="rb-cube"></div>
-    <div id='controls' class="rb-controls"></div>
+    <div id='rb-cube' class="rb-cube"></div>
+    <div id='rb-ctrl' class="rb-ctrl"></div>
     <div class="rb-moves">
         <button onclick="document.getElementById('moves').classList.toggle('hide')">Moves</button>
-        <p id='moves'></p>
+        <p id='rb-moves'></p>
     </div>
 
-<?php include("include/after_body.html"); ?>
-
-<script>
-    <?php include("../rubik/js/rubik.js"); ?>
-</script>
-
-<script>
-    <?php include("../rubik/js/script.js"); ?>
-</script>
+    <?php include("include/after_body.html"); ?>
+    <script src="rubik/rubik.js"></script>
+    <script src="rubik/script.js"></script>
+    <script src="lib/jquery-1.11.0/jquery.min.js"></script>
+    <script src="lib/bootstrap-3.3.1/js/bootstrap.min.js"></script>
 </body>
+
 </html>
