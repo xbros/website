@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="simon.css">
 
     <style>
-        <?php include("../workspace/rubik/style.css") ?>
+        <?php include("../rubik/style.css") ?>
     </style>
 </head>
 
@@ -32,11 +32,11 @@
 <?php include("include/after_body.html"); ?>
 
 <script>
-    <?php include("../workspace/rubik/js/rubik.js"); ?>
+    <?php include("../rubik/js/rubik.js"); ?>
 </script>
 
 <script>
-    <?php include("../workspace/rubik/js/script.js"); ?>
+    <?php include("../rubik/js/script.js"); ?>
 </script>
 </body>
 </html>
