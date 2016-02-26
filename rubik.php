@@ -18,8 +18,8 @@
         <?php include("include/before_body.html"); ?>
 
         <h1>Rubik's cube</h1>
-        <div id='my-cube' class="rb-cube"></div>
-        <div id='my-ctrl' class="rb-ctrl"></div>
+        <div id='my-cube' class="rb-cube" style="text-align:center;"></div>
+        <div id='my-ctrl' class="rb-ctrl" style="text-align:center;"></div>
         <div class="rb-moves">
             <button onclick="document.getElementById('my-moves').classList.toggle('hide')">Moves</button>
             <p id='my-moves'></p>
