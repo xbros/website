@@ -24,8 +24,8 @@
             Anti-clockwise 90°: Shift-[key].
             180°: Shift-Ctrl-[key].
         </p>
-        <div id='my-cube' class="rb-cube"></div>
-        <div id='my-ctrl' class="rb-ctrl"></div>
+        <div id='my-cube' class="rb-cube" style="text-align:center;"></div>
+        <div id='my-ctrl' class="rb-ctrl" style="text-align:center;"></div>
         <div class="rb-moves">
             <button onclick="document.getElementById('my-moves').classList.toggle('hide')">Moves</button>
             <p id='my-moves'></p>
