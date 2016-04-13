@@ -24,6 +24,10 @@
     <a class="btn btn-default quatre" href="https://soundcloud.com/simon-todeschini" onclick="writeActionBdd('link', 'soundcloud', '')" target="_blank"><i class="fa fa-soundcloud quatre"></i> SoundCloud</a>
     <a class="btn btn-default quatre" href="https://www.paypal.me/SimonTodeschini/" onclick="writeActionBdd('link', 'paypal', '')" target="_blank"><i class="fa fa-cc-paypal quatre"></i> Donation - PayPal</a>
 
+    <h2>HEADS</h2>
+    <div class="player" name="heads" path="2016-03-31_heads" son="HEADS"></div>
+    <div class="multiple-buttons" id="buttons-heads" soundcloud="https://soundcloud.com/simon-todeschini/heads"></div>
+
     <h2>SLANG STORY</h2>
     <div class="player" name="slang-story" path="2016-03-02_slang-story" son="SLANG STORY"></div>
     <div class="multiple-buttons" id="buttons-slang-story" soundcloud="https://soundcloud.com/simon-todeschini/slang-story"></div>
